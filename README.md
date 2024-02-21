@@ -35,8 +35,9 @@ Feel free to explore more about these projects in detail on my [GitHub profile](
 
 Let's connect! Feel free to reach out to me:
 
-- **LinkedIn:** [Vikas Chaurasiya](https://www.linkedin.com/in/vikas-chaurasiya-vikas/)
-- **Email:** chaurasiav598@.com
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-chaurasiya-vikas) 
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr.__vikas07)
+ [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikasChaurasiya07)
 
 ## Fun Fact
 
